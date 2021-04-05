@@ -113,5 +113,3 @@ bot.on('message', (message) => {
 
     }
 })
-
-bot.login("ODI4MTc3NDIyMDQ5NDc2NjE4.YGlyVA.qVtSmlMHm8Cx7njIM9o5xQEa6Qc");
